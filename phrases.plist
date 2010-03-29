@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>As I see it, yes</string>
+	<string>It is certain</string>
+	<string>It is decidedly so</string>
+	<string>Most likely</string>
+	<string>Outlook good</string>
+	<string>Signs point to yes</string>
+	<string>Without a doubt</string>
+	<string>Yes</string>
+	<string>Yes - definitely</string>
+	<string>You may rely on it</string>
+	<string>Reply hazy, try again</string>
+	<string>Ask again later</string>
+	<string>Better not tell you now</string>
+	<string>Cannot predict now</string>
+	<string>Concentrate and ask again</string>
+	<string>Don&apos;t count on it</string>
+	<string>My reply is no</string>
+	<string>My sources say no</string>
+	<string>Outlook not so good</string>
+	<string>Very doubtful</string>
+</array>
+</plist>
